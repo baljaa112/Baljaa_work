@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dessert Shop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe4e1;
+            text-align: center;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #d63384;
+        }
+        .box {
+            background: white;
+            padding: 15px;
+            margin: 10px auto;
+            width: 80%;
+            max-width: 400px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>🍰 Dessert Shop 🍪</h1>
+    <p>We create <b>beautiful</b>, <b>creative</b>, and <b>healthy</b> desserts.</p>
+   
+    <div class="box">
+        <h2>What do you want?</h2>
+        <p>Cookies: <b>$0.50</b> each</p>
+        <p>Cakes and pies: <b>$5.00</b> each</p>
+        <p>Chocolate: <b>$2.00</b></p>
+    </div>
+   
+    <div class="box">
+        <h2>Opening Hours ⏰</h2>
+        <p><b>Monday - Thursday:</b> 7:45 AM - 9:25 PM</p>
+        <p><b>Friday:</b> 7:45 AM - 4:25 PM</p>
+        <p><b>Saturday:</b> 7:45 AM - 4:25 PM</p>
+        <p><b>Sunday:</b> 12:00 PM - 12:30 PM</p>
+    </div>
+   
+    <div class="box">
+        <h2>Payment Methods 🏧</h2>
+        <p>We accept:</p>
+        <p>💵 Cash | 🏧 ATM Cards | 💳 Credit Cards</p>
+        <p>American Express | Discover</p>
+    </div>
+   
+    <p><a href="">📍 Find us on Google Maps</a></p>
+</body>
+</html>
+
